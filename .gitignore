@@ -1,0 +1,7 @@
+.env
+/env
+chromedriver
+*.log
+*.csv
+.DS_Store
+src/data-analysis/credentials.json
