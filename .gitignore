@@ -1,7 +1,11 @@
 .env
+.vscode
 /env
 chromedriver
 *.log
 *.csv
+*.xlsx
+*.json
+*.pyc
 .DS_Store
-src/data-analysis/credentials.json
+/venv
